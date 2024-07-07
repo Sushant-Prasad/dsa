@@ -1,0 +1,154 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "LinkedList3",
+            "request": "launch",
+            "mainClass": "LinkedList3",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "linkedlist",
+            "request": "launch",
+            "mainClass": "linkedlist",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "recursion11",
+            "request": "launch",
+            "mainClass": "recursion11",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "recursiom11",
+            "request": "launch",
+            "mainClass": "recursiom11",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "recursion10",
+            "request": "launch",
+            "mainClass": "recursion10",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "recursion9",
+            "request": "launch",
+            "mainClass": "recursion9",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "recursion8",
+            "request": "launch",
+            "mainClass": "recursion8",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "recursion7",
+            "request": "launch",
+            "mainClass": "recursion7",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "recursion6",
+            "request": "launch",
+            "mainClass": "recursion6",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "recursion5",
+            "request": "launch",
+            "mainClass": "recursion5",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "recursion4",
+            "request": "launch",
+            "mainClass": "recursion4",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "recursion3",
+            "request": "launch",
+            "mainClass": "recursion3",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "recursion2",
+            "request": "launch",
+            "mainClass": "recursion2",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "recursion",
+            "request": "launch",
+            "mainClass": "recursion",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "bit2",
+            "request": "launch",
+            "mainClass": "bit2",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "matrix2",
+            "request": "launch",
+            "mainClass": "matrix2",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "array3",
+            "request": "launch",
+            "mainClass": "array3",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "array2",
+            "request": "launch",
+            "mainClass": "array2",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "sum",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "Firstclass",
+            "request": "launch",
+            "mainClass": "Firstclass",
+            "projectName": "java tutorial_dec4fef8"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
