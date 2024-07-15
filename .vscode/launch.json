@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "find_permutations",
+            "request": "launch",
+            "mainClass": "backtracking.find_permutations",
+            "projectName": "java tutorial_2ab2241b"
+        },
+        {
+            "type": "java",
+            "name": "find_Subset",
+            "request": "launch",
+            "mainClass": "backtracking.find_Subset",
+            "projectName": "java tutorial_2ab2241b"
+        },
+        {
+            "type": "java",
             "name": "LinkedList3",
             "request": "launch",
             "mainClass": "LinkedList3",
