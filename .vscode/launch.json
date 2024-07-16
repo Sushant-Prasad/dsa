@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "smallest_number",
+            "request": "launch",
+            "mainClass": "GFGPOTD.smallest_number",
+            "projectName": "java tutorial_2ab2241b"
+        },
+        {
+            "type": "java",
             "name": "find_permutations",
             "request": "launch",
             "mainClass": "backtracking.find_permutations",

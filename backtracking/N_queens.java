@@ -64,3 +64,4 @@ public class N_queens {
   }
   
 }
+//Tc:- O(n!)
