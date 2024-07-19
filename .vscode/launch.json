@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Longest_alternating_subsequence",
+            "request": "launch",
+            "mainClass": "POTD.Longest_alternating_subsequence",
+            "projectName": "java tutorial_2ab2241b"
+        },
+        {
+            "type": "java",
+            "name": "Remaining_String",
+            "request": "launch",
+            "mainClass": "Remaining_String",
+            "projectName": "java tutorial_2ab2241b"
+        },
+        {
+            "type": "java",
+            "name": "Longest_alternating_subsequence",
+            "request": "launch",
+            "mainClass": "Longest_alternating_subsequence",
+            "projectName": "java tutorial_2ab2241b"
+        },
+        {
+            "type": "java",
             "name": "smallest_number",
             "request": "launch",
             "mainClass": "GFGPOTD.smallest_number",
