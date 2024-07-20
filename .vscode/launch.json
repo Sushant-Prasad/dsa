@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Count_Smaller_elements",
+            "request": "launch",
+            "mainClass": "Count_Smaller_elements",
+            "projectName": "java tutorial_2ab2241b"
+        },
+        {
+            "type": "java",
             "name": "Longest_alternating_subsequence",
             "request": "launch",
             "mainClass": "POTD.Longest_alternating_subsequence",
