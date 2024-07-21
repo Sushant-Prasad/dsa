@@ -18,7 +18,7 @@ public class Count_Smaller_elements {
     }
     
    public static int[] constructLowerArray(int[] arr) {
-      // code here
+      
       int ans[] = new int[arr.length];
     ArrayList<Integer> temp = new ArrayList<>();
     for(int i=0;i<arr.length;i++)temp.add(arr[i]);
