@@ -1,4 +1,7 @@
 import java.util.*;
+//insertionsort
+//bubblesort
+//selectionsort
 
 public class array14 {
        public static void insertionsort(int a[],int n){
