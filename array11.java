@@ -4,7 +4,6 @@ import java.util.*;
 
 public class array11 {
     public static void kadanes(int a[],int n){
-
         int i;
         int cs=0;
         int ms = Integer.MIN_VALUE;
