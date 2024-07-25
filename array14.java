@@ -41,7 +41,7 @@ public class array14 {
             int minPos = i;
             for(j=i+1;j<n;j++){
                 if(a[minPos]>a[j]){
-                    //> will bre replaced by < for descending sorted array
+                    // > will be replaced by < for descending sorted array
 
                     minPos = j;
                 }

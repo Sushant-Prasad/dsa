@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AL",
+            "request": "launch",
+            "mainClass": "ArrayList.AL",
+            "projectName": "java tutorial_2ab2241b"
+        },
+        {
+            "type": "java",
+            "name": "array3",
+            "request": "launch",
+            "mainClass": "array3",
+            "projectName": "java tutorial_2ab2241b"
+        },
+        {
+            "type": "java",
+            "name": "Selection_sort",
+            "request": "launch",
+            "mainClass": "sorting.Selection_sort",
+            "projectName": "java tutorial_2ab2241b"
+        },
+        {
+            "type": "java",
+            "name": "array14",
+            "request": "launch",
+            "mainClass": "array14",
+            "projectName": "java tutorial_2ab2241b"
+        },
+        {
+            "type": "java",
+            "name": "Selection_sort",
+            "request": "launch",
+            "mainClass": "Selection_sort",
+            "projectName": "java tutorial_2ab2241b"
+        },
+        {
+            "type": "java",
             "name": "Count_Smaller_elements",
             "request": "launch",
             "mainClass": "Count_Smaller_elements",
