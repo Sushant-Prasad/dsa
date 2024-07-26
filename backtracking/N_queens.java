@@ -2,7 +2,7 @@ public class N_queens {
   public static boolean isSafe(int row,int col, char board[][]){
     //vertically up
     for(int i = row-1;i>=0;i--){
-      if(board[i][col]=='Q'){ // bcoz col is fixed
+      if(board[i][col]=='Q'){ // bcoz col is fixed.
         return false;
       }
     }
