@@ -10,7 +10,7 @@ public class array8 {
             for(k=i;k<=j;k++){ //for printing elements between starting and ending
     // for(end=n;end>0;end--){
     // for(i=0;i<end;i++){
-    //     for(j=i;j<end;j++){
+    //for(j=i;j<end;j++){
         
             System.out.print(a[k]+" ");     
         }
@@ -33,7 +33,6 @@ public class array8 {
     }
     System.out.println("subarrays  are :");
     subarrays(a,n);
-    
-}
+    }
 }
 
