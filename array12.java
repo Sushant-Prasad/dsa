@@ -16,7 +16,7 @@ public class array12 {
             maxRight[i]= Math.max(a[i],maxRight[i+1]);
         } 
         //loop for water-level and trapped water
-    for(i=0;i<n;i++){
+     for(i=0;i<n;i++){
         waterlevel = Math.min(maxLeft[i],maxRight[i]);
         TrappedWater = TrappedWater + ((waterlevel-a[i])*width);
     }
