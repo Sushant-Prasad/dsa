@@ -12,6 +12,7 @@ public class array13 {
             else{
                 BuyingPrice = a[i];
             }
+            
         }
         return MaxProfit;
     }
