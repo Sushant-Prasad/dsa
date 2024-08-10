@@ -4,7 +4,7 @@
 //TC:-O(N)
 import java.util.*;
 public class AL3 {
-  //------------BRUTE FORCE------------
+//------------BRUTE FORCE------------
 //TC:-O(N*N)
   // public static boolean pairSum(ArrayList<Integer> list,int target){
   //   int n= list.size();
