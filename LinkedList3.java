@@ -5,7 +5,7 @@ public class LinkedList3 {
         public static class Node{
             int data;
             Node next;
-             Node(int data){ // creating a constructor which will create a node object
+             Node(int data){ //creating a constructor which will create a node object
                 this.data = data;
                 this.next = null;
             }
